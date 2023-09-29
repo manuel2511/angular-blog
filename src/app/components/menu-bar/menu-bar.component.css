@@ -1,0 +1,11 @@
+.container_menuBar > ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+.container_menuBar > ul > li {
+  padding: 10px;
+}
+a {
+  text-decoration: none;
+}
