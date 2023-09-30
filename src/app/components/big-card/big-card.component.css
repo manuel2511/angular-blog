@@ -11,16 +11,20 @@
   min-width: 400px;
 }
 .bigCard_title{
-  font-size: 20px;
   margin-top: 15px;
 }
 .bigCard_title > h1 > a{
+  font-size: 20px;
+}
+.bigCard_title > h1 > a:hover{
   color: lightgray;
 }
 a{
   text-decoration: none;
 }
 .bigCard_description > p{
-  color: lightgray;
   margin-top: 10px;
+}
+.bigCard_description > p:hover{
+  color: lightgray;
 }

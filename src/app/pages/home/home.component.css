@@ -1,6 +1,8 @@
+.menu-bar{
+  margin-top: 20px;
+}
 .container_articles{
   margin: 30px 0;
   display: flex;
   justify-content: space-evenly;
-  max-width: 1024px;
 }
