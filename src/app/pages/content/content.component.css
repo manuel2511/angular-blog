@@ -1,0 +1,24 @@
+.container_content{
+  height: 100vh;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.content_cover > img{
+  border: 5px solid lightgray;
+  width: 500px;
+  min-width: 500px;
+  height: 100%;
+  border-radius: 5px;
+}
+.content_description{
+  margin-top: 15px;
+}
+.content_description > p {
+  color: lightgray;
+}
+
+footer{
+  display: flex;
+}
